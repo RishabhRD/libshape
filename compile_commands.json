@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/rishabh/personal/libshape/build/test",
+  "command": "/usr/bin/c++  -I/home/rishabh/personal/libshape/test/../include -isystem /home/rishabh/.conan/data/boost-ext-ut/1.1.8/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include -O2 -g -DNDEBUG -fcolor-diagnostics -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wold-style-cast -Wcast-align -Wunused -Woverloaded-virtual -Wpedantic -Wconversion -Wsign-conversion -Wnull-dereference -Wdouble-promotion -Wformat=2 -Werror -std=gnu++20 -o CMakeFiles/syntax_test.dir/syntax_test.cpp.o -c /home/rishabh/personal/libshape/test/syntax_test.cpp",
+  "file": "/home/rishabh/personal/libshape/test/syntax_test.cpp"
+}
+]
